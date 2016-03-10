@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ssw/UI/GlobalInputHook/InputHook.cs">
+    <Files>
+      <File FileName="ssw/Program.cs" Line="12" Column="28" />
+      <File FileName="ssw/UI/UIManager.cs" Line="23" Column="11" />
+      <File FileName="ssw/Tray/TrayIcon.cs" Line="9" Column="1" />
+      <File FileName="ssw/Tray/TrayIconAnimator.cs" Line="1" Column="1" />
+      <File FileName="ssw/UI/KeyboardController.cs" Line="53" Column="23" />
+      <File FileName="ssw/UI/GlobalInputHook/InputHook.cs" Line="36" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
